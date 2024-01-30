@@ -1,4 +1,5 @@
 # GITDEMO
+
 This is git repository
 <br>
-Author - Afzal Hashmi
+Author - Afzal (Hashmi)
